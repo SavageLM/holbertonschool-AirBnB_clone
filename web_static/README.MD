@@ -1,0 +1,1 @@
+This is a README for the static web page of the AirBNB clone project for Holberton.
